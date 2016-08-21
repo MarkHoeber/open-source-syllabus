@@ -59,11 +59,28 @@ and comfortable with either a Mac or Windows, and web browsing.
 Learners should do the reading and watch videos outside of class, so we can use
 class time for discussion and hands on learning.
 
+Setup
+********
 
-Feedback
-*************
+We will be using GitHub in this class. To get started, create an GitHub account.
 
-GitHub Issues
+|GitHub - Join|
+
+Then send an email to hoeber.m.c@gmail.com with your GitHub username. I will then add you as a collaborator for this project.
+
+We will discuss GitHub in the 2nd class.  Or your can :ref:`skip ahead <GitHub>`.
+
+
+Class Discussions
+******************
+
+We will use the |GitHub - Issues| page of this syllabus for class discussion.
+
+GitHub issues function much like a discussion board. You can start a new issue, and comment on existing issues. Issues are Open or Closed.  I'll close an issue when the question has been answered. But you can still get good information by browsing Closed issues.
+
+Everyone is encouraged to ask questions, and comment on others questions.
+
+To get started, please go to the |GitHub - Issues| page, find the Introductions issue, and add a comment to introduce yourself.
 
 
 .. include:: includes.txt

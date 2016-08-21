@@ -1,3 +1,5 @@
+.. _GitHub:
+
 GitHub
 #######
 
