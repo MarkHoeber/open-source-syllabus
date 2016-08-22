@@ -1,3 +1,5 @@
+.. _Example Open Source Projects:
+
 Example Open Source Projects
 ##############################
 
