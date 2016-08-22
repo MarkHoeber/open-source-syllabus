@@ -11,7 +11,7 @@
 *.pyc
 
 ### Unknown artifacts
-/build/*
+build
 \#*\#
 .env/
 autodeploy.properties
@@ -22,3 +22,7 @@ autodeploy.properties
 *.sublime-project
 
 *.sublime-workspace
+
+*.pickle
+
+*.doctree
