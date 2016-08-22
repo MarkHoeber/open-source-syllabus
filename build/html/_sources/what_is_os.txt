@@ -6,6 +6,11 @@ What is Open Source Software?
 
 .. include:: video_refs/lego_history.txt
 
+Open Source and Business
+**************************
+
+The impact of open source software is growing.
+
 .. include:: video_refs/goldman_history.txt
 
 Readings

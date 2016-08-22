@@ -11,7 +11,7 @@
 *.pyc
 
 ### Unknown artifacts
-build/*
+/build/*
 \#*\#
 .env/
 autodeploy.properties
