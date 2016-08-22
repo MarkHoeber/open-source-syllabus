@@ -56,7 +56,7 @@ Learners must bring curiosity.
 No experience with open source software is required. Learners should be familiar
 and comfortable with either a Mac or Windows, and web browsing.
 
-Learners should do the reading and watch videos outside of class, so we can use
+Learners should do the reading and watch videos before class, so we can use
 class time for discussion and hands on learning.
 
 Setup
