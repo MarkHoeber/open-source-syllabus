@@ -9,7 +9,7 @@ Options
 Class will guide you through the process of making a change to edX
 documentation. EdX will provide a list of changes we can select to do.
 
-You can choose to do something else.
+You can choose to do something else. For example, you can submit an update to this syllabus.  Need an idea? You can find an open source project that interests you and add it to the :ref:`Example Open Source Projects` page, or great a new history page for it.
 
 Students can work in pairs.
 
@@ -19,6 +19,8 @@ Students can work in pairs.
 
 Get Started
 ************
+
+#. Review :ref:`GitHub Workflow`.
 
 #. Make sure you have your GitHub account. Optionally, download GitHub for Mac
    or GitHub for Windows.

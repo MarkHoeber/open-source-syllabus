@@ -1,3 +1,5 @@
+.. _GitHub Workflow:
+
 GitHub Workflow
 ######################
 
