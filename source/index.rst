@@ -51,7 +51,7 @@ Day Three
 .. toctree::
    :maxdepth: 1
 
-   sociology
+   culture
    business
    class_projects
 
@@ -62,7 +62,6 @@ Resources
 .. toctree::
    :maxdepth: 1
 
-   readings
    examples
    sphinx
 
