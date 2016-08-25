@@ -28,7 +28,7 @@ Get Started
 #. If you plan to update edX documentation, fill out the |edX Contributor
    Agreement| and send to edX.
 
-#. Optionally, identify a different project you'd like to work on.
+#. Optionally, identify a different project you'd like to work on. You can choose to add to this syllabus.
 
 #. Identify the change you will make and share on the class Facebook page.
 
