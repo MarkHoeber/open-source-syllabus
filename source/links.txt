@@ -88,8 +88,15 @@
 
 .. |Homesteading Noosphere| raw:: html
 
-  <a href="http://www.catb.org/~esr/writings/cathedral-bazaar/homesteading/" target="_blank">Homesteading Noosphere</a>
+  <a href="http://www.catb.org/~esr/writings/cathedral-bazaar/homesteading/" target="_blank">Homesteading the Noosphere</a>
 
+.. |Homesteading Noosphere Comments| raw:: html
+
+  <a href="https://www.eyrie.org/~eagle/writing/homesteading.html" target="_blank">Comments on Homesteading the Noosphere</a>
+
+.. |Lock Property Theory| raw:: html
+
+  <a href="https://en.wikipedia.org/wiki/Labor_theory_of_property" target="_blank">Labor Theory of Property</a>
 
 .. |FSF link| raw:: html
 
