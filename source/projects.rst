@@ -30,7 +30,7 @@ Get Started
 
 #. Optionally, identify a different project you'd like to work on. You can choose to add to this syllabus.
 
-#. Identify the change you will make and share on the class Facebook page.
+#. Identify the change you will make and share in the Issues section of the GitHub repository.
 
    .. note:: The goal is to understand the process of making a change, not to
       make a world-changing contribution. Choose to do something easy and
