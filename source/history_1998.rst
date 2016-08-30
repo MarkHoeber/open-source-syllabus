@@ -18,7 +18,11 @@ Influenced by |Cathedral and Bazaar|, Netscape releases source code for Navigato
 |Takeaways|
 ************
 
-*
+* Netscape's decision to open source its code was heavily influenced by Eric Raymond and |Cathedral and Bazaar|.
+  
+* Netscape was also driven by competition with Microsoft.  
+
+* Raymond and others founded the Open Source Initiative to promote and support open source projects such as Netscape.
 
 
 .. include:: includes.txt
