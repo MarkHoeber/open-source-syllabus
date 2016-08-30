@@ -1,3 +1,5 @@
+.. _FSU:
+
 1985 - |FSU|
 ####################
 
@@ -21,9 +23,9 @@ The |FSU| holds copyright for |GNU|, a collection of free software.
 |Takeaways|
 ************
 
-* Richard Stallman and |FSU| were driven to provide users with freedom, not just to use a program, but to change it and redistribute it.
+* Stallman and |FSU| were driven to provide users with freedom, not just to use a program, but to change it and redistribute it.
 
-* Free software is driven by cooperations, between and among developers and users.
+* Free software is driven by cooperation, between and among developers and users.
 
 * He viewed proprietary software as *malware*.
 
