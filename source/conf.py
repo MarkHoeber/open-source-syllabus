@@ -10,7 +10,7 @@ source_suffix = '.rst'
 
 master_doc = 'index'
 
-project = u'Tools and Technologies for Technical Writers'
+project = u'Introduction to Open Source Software'
 copyright = u'2016, Mark Hoeber'
 author = u'Mark Hoeber'
 
