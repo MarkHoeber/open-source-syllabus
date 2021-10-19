@@ -24,7 +24,7 @@ todo_include_todos = True
 
 
 
-html_theme = 'default'
+#html_theme = 'default'
 #html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 
 #html_theme_options = {
