@@ -25,15 +25,15 @@ todo_include_todos = True
 
 
 html_theme = 'default'
-html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
+#html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 
-html_theme_options = {
+#html_theme_options = {
 
-  'navbar_site_name': "Syllabus",
-  'navbar_pagenav_name': "Lesson",
-  'source_link_position': "footer",
+#  'navbar_site_name': "Syllabus",
+#  'navbar_pagenav_name': "Lesson",
+#  'source_link_position': "footer",
 
-  #'bootswatch_theme': "Sandstone"
-}
+ # #'bootswatch_theme': "Sandstone"
+#}
 
 
